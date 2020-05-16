@@ -8,7 +8,7 @@ Changes I made in this document were as follows...
 
 3. Removed un-needed ID tags.
 
-4. Checked all the image links and they seem to be correct.
+4. Names sections so links worked properly.
 
 5. Added Alt tags to the images making them readable to the browser.
 
